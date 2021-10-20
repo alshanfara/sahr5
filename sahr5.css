@@ -57,19 +57,16 @@ label.label.border.btn.label-danger.tc.fl {
 
 label.label.tc.border.btn.fl {
     border-radius: 25px;
-    background: linear-gradient( 
--45deg , #dc1759, #ffffff, #db094f, #b3b2b3);
+
 }
 
 label.label.tc.border.btn.label-info.fl {
     border-radius: 25px;
-background: linear-gradient( 
--45deg , #b3b2b3, #ffffff, #635e63, #b3b2b3);
+
 }
 
 
-label.label.tc.border.btn.fl {
-}
+
 
 
 .hand.nosel.fl.uzr.borderg {
