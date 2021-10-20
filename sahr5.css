@@ -4,12 +4,8 @@ ul.nav.nav-tabs>li.active>a {
 }
 .broadcasters {
 
-background-image: linear-gradient( 90deg ,#db074e 0,#df5b87 10%,#db074e 51%,#df5b87 89%,#db074e 100%);
-}
+background-image: linear-gradient( 90deg ,#d10549 0,#df5b8775 10%,#db074e 51%,#df5b8775 89%,#d10549 100%);
 
-
-a.label.label-primary.fl {
-auto;
 }
 div#l2 input#pass1, div#l2 input#u2, div#l3 input#pass2, div#l3 input#u3 {
     width: 49%;
@@ -38,7 +34,7 @@ ul.nav.nav-tabs {
     float: right;
     width: 100%;
     padding: 3px 1px;
-background-image: linear-gradient( 90deg ,#db074e 0,#df5b87ad 10%,#db074e 51%,#df5b87ad 89%,#db074e 100%);
+background-image: linear-gradient( 90deg ,#d10549 0,#df5b8775 10%,#db074e 51%,#df5b8775 89%,#d10549 100%);
 }
 
 
@@ -52,24 +48,10 @@ background-image: linear-gradient( 90deg ,#db074e 0,#df5b87 10%,#db074e 51%,#df5
 .label-primary, .btn-primary {
     background-color: #000!important;
     border-radius: 25px;
-background-image: linear-gradient( 90deg ,#db074e 0,#df5b87 10%,#db074e 51%,#df5b87 89%,#db074e 100%);
+background-image: linear-gradient( 90deg ,#d10549 0,#f75e91,#db074e 51%,#f75e91,#d10549 100%);
 
 }
 
-
-label.label.border.btn.label-danger.tc.fl {
-    border-radius: 25px;
-}
-
-label.label.tc.border.btn.fl {
-    border-radius: 25px;
-
-}
-
-label.label.tc.border.btn.label-info.fl {
-    border-radius: 25px;
-
-}
 
 
 
@@ -86,58 +68,19 @@ label.label.tc.border.btn.label-info.fl {
 
 
 
-div#tlogins ::-webkit-scrollbar {
-    width: 5px;
-    height: 10px;
-}
-
-div#tlogins ::-webkit-scrollbar-button {
-    width: 5px;
-    height: 5px;
-}
 
 div#tlogins ::-webkit-scrollbar-thumb {
     background: 0 0;
     border: 71px #fff;
     border-radius: 31px;
-background-image: linear-gradient( 90deg ,#db074e 0,#df5b87 10%,#db074e 51%,#df5b87 89%,#db074e 100%);
+background-image: linear-gradient( 90deg ,#d10549 0,#fb99b9ba,#db074e 51%,#fb99b9ba,#d10549 100%);
 }
 
-
-div#tlogins ::-webkit-scrollbar-thumb:active {
-    background: 0 0
-}
-
-div#tlogins ::-webkit-scrollbar-track {
-    background: #fff;
-    border: 65px #fff;
-    border-radius: 34px;
-}
-
-div#tlogins ::-webkit-scrollbar-track:hover {
-    background: 0 0
-}
-
-div#tlogins ::-webkit-scrollbar-track:active {
-    background: 0 0
-}
-div#tlogins ::-webkit-scrollbar-corner {
-    background: 0 0;
-}
-
-div#tlogins .fl.mini.u-msg {
-    margin-top: 3px!important;
-    border-radius: 3px!important
-}
-
-div#tlogins .u-topic.dots {
-    width: 800px;
-}
 
 
 #alshanfara{
 
-background-image: linear-gradient( 90deg ,#db074e 0,#df5b87 10%,#db074e 51%,#df5b87 89%,#db074e 100%);
+background-image: linear-gradient( 90deg ,#db074e 0,#ff83ad 10%,#db074e 51%,#ff83ad 89%,#db074e 100%);
 }
 
 
