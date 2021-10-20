@@ -34,13 +34,7 @@ ul.nav.nav-tabs {
     padding: 3px 1px;
 background-image: linear-gradient( 90deg ,#db074e 0,#df5b87ad 10%,#db074e 51%,#df5b87ad 89%,#db074e 100%);
 }
-.light {
-    
-  background: repeating-linear-gradient( 
-45deg
- ,rgba(255,255,255,0.8),rgb(255,255,255) 100px,#ffffffb0 0px,#fff6f699 200px ),repeating-linear-gradient( 
--45deg
- ,rgba(255,255,255,0.5),rgba(255,255,255,0.93) 100px,#b3adadd1 0px,#ffffffe6 200px )!important;}
+
 
 .bg {background-color: #dc0c52;}
 
